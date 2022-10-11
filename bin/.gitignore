@@ -1,14 +1,15 @@
 /ArrayListIterator.class
 /Basics/
-/InheritanceConcepts/
-/OnlyArrays/
-/ProducerAndConsumer/
-/collections/
 /Consumer.class
 /Decision.class
 /DqExample.class
 /DuplicatingArray.class
 /ExceptionExample.class
+/InheritanceConcepts/
+/OnlyArrays/
+/ProducerAndConsumer/
+/StringPractice/
+/collections/
 /LinkedHashsetExample.class
 /Linkedlistadd.class
 /MapExample.class
@@ -24,3 +25,4 @@
 /TreeSetExample.class
 /TryCatch1.class
 /TryCatchIf2.class
+/SerialDeserial.class
